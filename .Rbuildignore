@@ -4,3 +4,4 @@
 ^tests/testthat/whee$
 ^vignettes/basilisk-vignette-test.*$
 ^LICENSE$
+^\.github$
